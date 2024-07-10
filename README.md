@@ -1,4 +1,4 @@
-Вопрос 4
+
 SELECT 
     p.ProductName, 
     c.CategoryName
